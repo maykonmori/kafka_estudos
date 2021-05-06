@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	kafkaConn = "localhost:8000"
+	kafkaConn = "localhost:9092"
 	topic     = "kafka-headers"
 )
 
